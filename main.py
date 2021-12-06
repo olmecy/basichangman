@@ -1,7 +1,7 @@
 import random
 import time
 from words import words
-#Hello
+#Hellofart
 def sub(string, index, newc):
     position = index
     new_character = newc
